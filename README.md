@@ -1,3 +1,3 @@
-# <YOUR_REPO_NAME>
+# jimright/poc-action-init-and-sync-repo1
 
-The <PLACEHOLDER> in this line has been updated.
+The poc-action-init-and-sync-repo1 in this line has been updated.
