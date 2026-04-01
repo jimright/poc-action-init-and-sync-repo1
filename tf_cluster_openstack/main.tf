@@ -1,1 +1,0 @@
-# OpenStack specified Terraform resources for the cluster
